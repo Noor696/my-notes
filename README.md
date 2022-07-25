@@ -1,7 +1,7 @@
 # my-notes
-###_My name is Noor Al-Khateeb and I am 27 years old_
+### _My name is Noor Al-Khateeb and I am 27 years old_
 
-##ACADEMICS:
+## ACADEMICS:
 _____________
 
 - **_Luminus Technical University_** *2022-2023*
@@ -18,7 +18,7 @@ BSC in Civil Engineering - GPA: Very Good
 
  ![noor](/home/noor/my-notes/noorpic/Noor.jpg)
 
-##PROFILE:
+## PROFILE:
 ______________
 * 00962 785 131 336
 * <eng.nooralkhateeb@gmail.com>
@@ -33,7 +33,7 @@ ______________
 **Adaptability Creativity Collaboration**
 
 
-##Personal Skills:
+## Personal Skills:
 ____________
 
 - Excellent presentations & reporting skills.
