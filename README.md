@@ -29,7 +29,7 @@ ______________
 * contact with me:
    <https://www.linkedin.com/in/noor-al-khateeb-1a1665143>
 
-##HIGHLIGHTED SKILLS
+## HIGHLIGHTED SKILLS
 **Adaptability Creativity Collaboration**
 
 
