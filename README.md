@@ -42,3 +42,16 @@ ____________
 -  Very Good Technical Knowledge.
 - Flexible to work in different time or travel.
 - Computer Skills, Microsoft Office.
+
+
+# To be an organized programmer, build structured code, you must follow the fundamental laws of software:
+
+- Remember that the **_purpose of the software_** is to **help people** and the world, so let your software be **simple**, And make sure that the **design of the software is easy**, Your **full understanding** of software systems and tools will help you create an easy and useful program.
+- **_Control the complexity of the foftware_** by not adding unnecessary tasks to the program so as not to increase the number of codes and avoid falling into the problem of a “complex program”, The ease of the software means that the program is easy to **maintain when needed**.
+- **_For the system to be consistent_**, for example, that the name of the variable reflects its content.
+- **_When you have a system problem,_** **divide it down into small tasks and solve each one by one.**
+- **_Design the system for your current time,_** not for the future, Because to make your system fit into the future you will need to write more code and the future may not come as you thought.
+- **_Do not invent an existing program._**
+- **_Keep your system productive_** by eliminating unnecessary lines of code.
+- **_Test the code_** after each set of steps to make sure it works.
+- **_Continuing to learn_** is what makes you a **successful programmer** and keep pace with development, And rely on yourself to solve and find the code and not on external techniques
