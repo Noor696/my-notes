@@ -16,7 +16,7 @@ BSC in Civil Engineering - GPA: Very Good
  
 
 
- ![noor](/home/noor/my-notes/noorpic/Noor.jpg)
+ ![noor](./noorpic/Noor.jpg)
 
 ## PROFILE:
 ______________
@@ -42,6 +42,8 @@ ____________
 -  Very Good Technical Knowledge.
 - Flexible to work in different time or travel.
 - Computer Skills, Microsoft Office.
+_____________________
+__________________________
 
 
 # To be an organized programmer, build structured code, you must follow the fundamental laws of software:
